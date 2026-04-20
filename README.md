@@ -44,3 +44,14 @@ Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
 ```
 
 O script para criação da tabela do exemplo encontra-se na pasta **Database**.
+
+### Erro de Compilação 
+Atualizar/Reinstalar via NuGet: No Visual Studio, abra o Console do Gerenciador de Pacotes e execute:
+
+```bash
+...
+		Update-Package Microsoft.Bcl.AsyncInterfaces -Reinstall
+...
+
+```
+
