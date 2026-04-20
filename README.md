@@ -29,7 +29,8 @@ Ficara com a seguinte estrutura
 
 # O que você vai encontrar neste projeto
 
-- **AdminLTE** - Layout Responsivo JavaScript e uso de bibliotecas (Plugins). 
+- **AdminLTE** - Layout Responsivo JavaScript e uso de bibliotecas (Plugins).
+- **Dicionário de Dados** - Contexto definido realizado manualmente com T-SQL.
 - **Claims** - Autorização com contexto Header para compartilhar dados da aplicação com segurança.
 - **JWT Token** - Segurança na navegação com uso criptografado de sessão do navegador.
 
